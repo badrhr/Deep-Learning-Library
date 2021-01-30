@@ -7,7 +7,7 @@
 7. Training
 
 
-After building different classes, and in order to make the idea of a feedforward network more concrete, we begin with the Learning XOR.
+After building different classes, and in order to make the idea of a feedforward network more concrete, we begin with XOR example.
 Basically, it is an example of a fully functioning feedforward network on a very simple task: learning the XOR function.
 
 The XOR function (“exclusive or”) is an operation on two binary values, x1 and x2. When exactly one of these binary values is equal to 1, the XOR function
