@@ -15,4 +15,5 @@ returns 1. Otherwise, it returns 0. The XOR function provides the target functio
 our learning algorithm will adapt the parameters θ to make f as similar as possible to f∗.
 
 
-
+Download the mnist dataset from:
+https://www.kaggle.com/oddrationale/mnist-in-csv?select=mnist_test.csv
