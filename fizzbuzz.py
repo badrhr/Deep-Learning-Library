@@ -49,6 +49,8 @@ net = NeuralNet([
     Linear(input_size=50, output_size=4)
 ])
 
+
+#you can set the lr=0.01 as done in XOR example and notice the lr impact to the learning process.
 train(net,
       inputs,
       targets,
